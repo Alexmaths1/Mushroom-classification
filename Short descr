@@ -1,0 +1,2 @@
+This is a requirement file.
+Tensorflow, keras is required in order to execute this code. This is a portfolio project on convolutional neural networks (image classification, 9 classes).
